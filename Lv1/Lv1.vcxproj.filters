@@ -93,6 +93,9 @@
     <ClCompile Include="24_가운데 글자 가져오기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="25_약수의 개수와 덧셈.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
