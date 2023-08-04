@@ -9,5 +9,6 @@
 using namespace std;
 
 
-// บคลอ รโทย
+
 void PrintVector(vector<int> arr);
+void PrintVector(vector<string> arr);

@@ -11,3 +11,13 @@ void PrintVector(vector<int> arr)
 	}
 }
 
+void PrintVector(vector<string> arr)
+{
+	for (int i = 0; i < arr.size(); i++)
+	{
+		if (i == arr.size() - 1)
+			cout << arr[i] << endl;
+		else
+			cout << arr[i] << " ";
+	}
+}
