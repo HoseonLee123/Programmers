@@ -12,3 +12,4 @@ using namespace std;
 
 void PrintVector(vector<int> arr);
 void PrintVector(vector<string> arr);
+void PrintVector(vector<vector<int>> arr);
