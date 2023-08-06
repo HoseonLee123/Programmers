@@ -99,6 +99,12 @@
     <ClCompile Include="26_수박.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="27_내적.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="28_문자열 내림차순으로 배치하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
