@@ -117,6 +117,9 @@
     <ClCompile Include="32_행렬의 덧셈.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="33_직사각형 별찍기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
