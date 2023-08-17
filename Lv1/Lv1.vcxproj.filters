@@ -126,6 +126,9 @@
     <ClCompile Include="35_3진법 뒤집기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="36_이상한 문자 만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
